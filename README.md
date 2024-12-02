@@ -2,8 +2,8 @@
 
 ## 🧑‍💻 Qui je suis ?
 
-- 💼 **Activité actuelle**: Etudiant en développement Logiciel, mobile & IoT.
-- 🌱 **Ce que je fais actuellement**: Actuellement en train d'apprendre NextJS ([nextjs-learning](https://github.com/Nicolas-Delahaie/nextjs-learning)), j'ai pour but de migrer mon CV actuel ([cv-portfolio-reactjs](https://github.com/Nicolas-Delahaie/cv-portfolio-reactjs)) vers ce framework ([cv-portfolio-nextjs](https://github.com/Nicolas-Delahaie/cv-portfolio-nextjs)). En parallèle, je continue le projet étudiant Valpineta au delà de la formation ([valpineta](https://github.com/projetDansLaMontagne/Valpineta)).
+- 💼 **Activité actuelle**: Etudiant en développement Logiciel, mobile & IoT chez Ynov Campus
+- 🌱 **Ce que je fais actuellement**: Actuellement en train d'apprendre NextJS ([nextjs-learning](https://github.com/Nicolas-Delahaie/nextjs-learning)), j'ai pour but de migrer mon CV actuel ([cv-portfolio-reactjs](https://github.com/Nicolas-Delahaie/cv-portfolio-reactjs)) vers ce framework ([cv-portfolio-nextjs](https://github.com/Nicolas-Delahaie/cv-portfolio-nextjs)). En parallèle, j'apprend le framework Symfony grace à mon projet personnel [tacha-symfony](https://github.com/Nicolas-Delahaie/tacha-symfony).
 - 🚀 **Intérêts**: Je suis un jeune assez sportif rigoureux qui apprécie passer du temps personnel sur des projets qui me tiennent à cœur pour construire des choses, tout en m'améliorant techniquement. J'ai une particulière affection pour automatiser tout ce que je peux, dès que possible.
 <!-- - 🏆 **Projects**: I love working on [type of project] that [desired outcome] (e.g., improving productivity, promoting education, etc.) -->
   
