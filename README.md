@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Qui je suis ?
 
-- 💼 **Activité actuelle**: Etudiant en développement Logiciel, mobile & IoT chez Ynov Campus.
+- 💼 **Activité actuelle**: Etudiant en développement Mobile & IoT chez Ynov Campus.
 - 🌱 **Apprentissage**: Ma curiosité débordante me pousse à apprendre en permanence, aussi bien sur mon temps personnel qu'à l'école ou qu'au travail. 
 - 🚀 **Intérêts**: Je suis un jeune assez sportif rigoureux qui apprécie passer du temps personnel sur des projets qui me tiennent à cœur pour construire des choses, tout en m'améliorant techniquement. J'ai une particulière affection pour automatiser tout ce que je peux, dès que possible.
 <!-- - 🏆 **Projects**: I love working on [type of project] that [desired outcome] (e.g., improving productivity, promoting education, etc.) -->
